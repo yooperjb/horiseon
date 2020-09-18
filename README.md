@@ -1,5 +1,5 @@
 # Horiseon Website
-![horiseon](https://img.shields.io/github/languages/top/yooperjb/horiseon)
+![horiseon](https://img.shields.io/github/languages/top/yooperjb/horiseon)   ![GitHub language count](https://img.shields.io/github/languages/count/yooperjb/horiseon)
 
 ## Description 
 
@@ -10,6 +10,7 @@ The website contains a header which includes navigation links pointing to sectio
 To grab the attention of visitors, the page prominently displays a large central image, or hero, which clearly shows Horiseon employees hard at work. Images located in the services section also meet web accessibility standards by clearly describing each in the *alt* tag.
 
 Website design can be seen at [https://yooperjb.github.io/horiseon/](https://yooperjb.github.io/horiseon/).
+
 
 ![screenshot](./assets/images/front_page_shot.png)
 
